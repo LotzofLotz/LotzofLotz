@@ -6,7 +6,8 @@ Whether it's app or web development, data analysis, or ML engineering, I use the
 - 🔭 I’m currently working on a workout tracking app using deep learning and smartphone sensors
 - 🌱 I’m currently learning TensorFlow, AWS, Node.js
 
-Check out my gamified habit tracking app here https://drhu-app.de/
+Check out my gamified habit tracking app [here](https://drhu-app.de/)
+
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,react,js,ts,vscode,github,git,tensorflow,figma,java,nodejs,html,css,bootstrap,androidstudio,notion,latex,npm,windows)](https://skillicons.dev)
