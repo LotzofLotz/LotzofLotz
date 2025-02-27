@@ -1,7 +1,7 @@
 ## Hello world! 👋
 
 My name is Christopher and I recently completed my Master's in Information Systems Management at TU Berlin. I am passionate about developing digital solutions that empower people to live healthier lives. 
-Whether it's app or web development, data analysis, or ML engineering, I use these tools to create projects like habit and workout tracking apps that help you achieve your health and fitness goals.
+Whether it's app or web development, data analysis, or ML engineering, I use these tools to create projects like habit and workout tracking apps that help users achieve their health and fitness goals.
 
 - 🔭 I’m currently working on a workout tracking app using deep learning and smartphone sensors
 - 🌱 I’m currently learning TensorFlow, AWS, Node.js
